@@ -26,7 +26,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.fragmentsandnavigation.databinding.ActivityMainBinding;
+import com.example.quizapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
